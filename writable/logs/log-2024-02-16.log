@@ -1,0 +1,9 @@
+CRITICAL - 2024-02-16 07:49:01 --> ArgumentCountError: Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in E:\xampp\htdocs\donorDarah\app\Config\Routes.php on line 9 and at least 2 expected
+in SYSTEMPATH\Router\RouteCollection.php on line 1017.
+ 1 APPPATH\Config\Routes.php(9): CodeIgniter\Router\RouteCollection->get('/login')
+ 2 SYSTEMPATH\Router\RouteCollection.php(344): require('E:\\xampp\\htdocs\\donorDarah\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(810): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\xampp\\htdocs\\donorDarah\\public\\index.php')

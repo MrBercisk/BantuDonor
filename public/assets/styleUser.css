@@ -1,0 +1,28 @@
+:root {
+    --snow : #F6EFEF;
+    --blood : #b22222;
+}
+
+body{
+    margin: 0;
+}
+
+/* Sidebar Navbar */
+nav, .main-sidebar{
+    background-color: var(--blood);
+}
+
+.main-sidebar a, .main-sidebar a span, .nav-link i, .sidebar .nav-item p{
+    color: var(--snow);
+    text-decoration: none;
+}
+
+/* Content */
+.content-wrapper{
+    background-color: var(--snow);
+
+}
+
+.tombolEditProfil {
+    margin-top: 35px;
+}

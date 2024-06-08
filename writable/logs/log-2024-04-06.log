@@ -1,0 +1,850 @@
+INFO - 2024-04-06 18:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 18:44:41 --> ErrorException: Undefined variable $rs_id
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rs_id', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/dashboard', [], true)
+10 APPPATH\Controllers\DashboardRs.php(42): view('rs/dashboard', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DashboardRs->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardRs))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 18:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 18:46:48 --> ErrorException: Undefined variable $rs_id
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rs_id', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/dashboard', [], true)
+10 APPPATH\Controllers\DashboardRs.php(48): view('rs/dashboard', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DashboardRs->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardRs))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 18:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 18:47:03 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/dashboard', [], true)
+10 APPPATH\Controllers\DashboardRs.php(48): view('rs/dashboard', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DashboardRs->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardRs))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 18:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 18:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 18:53:42 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/stokdarah', [], true)
+10 APPPATH\Controllers\Stok.php(38): view('rs/stokdarah', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Stok->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 18:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:05:15 --> ArgumentCountError: Too few arguments to function App\Models\PendonorModel::hitungStock(), 0 passed in D:\xampp\htdocs\BantuDonor\app\Controllers\Stok.php on line 38 and exactly 1 expected
+in APPPATH\Models\PendonorModel.php on line 39.
+ 1 APPPATH\Controllers\Stok.php(38): App\Models\PendonorModel->hitungStock()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Stok->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Stok))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:10:25 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/pendonor', [], true)
+10 APPPATH\Controllers\Pendonor.php(30): view('rs/pendonor', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:16:07 --> ErrorException: Undefined variable $nama_rs
+in APPPATH\Views\rs\profil.php on line 25.
+ 1 APPPATH\Views\rs\profil.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_rs', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\profil.php', 25)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\profil.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/profil', [], true)
+ 5 APPPATH\Controllers\Profil.php(30): view('rs/profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Profil->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:21:21 --> ErrorException: Undefined variable $rs
+in APPPATH\Views\rs\profil.php on line 31.
+ 1 APPPATH\Views\rs\profil.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rs', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\profil.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\profil.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/profil', [], true)
+ 5 APPPATH\Controllers\Profil.php(30): view('rs/profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Profil->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:23:47 --> ErrorException: Undefined variable $rs
+in APPPATH\Views\rs\profil.php on line 31.
+ 1 APPPATH\Views\rs\profil.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rs', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\profil.php', 31)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\profil.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/profil', [], true)
+ 5 APPPATH\Controllers\Profil.php(30): view('rs/profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Profil->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:24:31 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/pendonor', [], true)
+10 APPPATH\Controllers\Pendonor.php(30): view('rs/pendonor', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:27:13 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_rs\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_rs\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_rs/sidebar', null, true)
+ 5 APPPATH\Views\layouts_rs\template_rs.php(30): CodeIgniter\View\View->include('layouts_rs/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_rs\\template_rs.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_rs/template_rs', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/pendonor', [], true)
+10 APPPATH\Controllers\Pendonor.php(30): view('rs/pendonor', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:35:45 --> ErrorException: Undefined variable $goldar
+in APPPATH\Views\rs\pendonor.php on line 50.
+ 1 APPPATH\Views\rs\pendonor.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $goldar', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\pendonor.php', 50)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\pendonor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/pendonor', [], true)
+ 5 APPPATH\Controllers\Pendonor.php(34): view('rs/pendonor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:36:30 --> ErrorException: Undefined variable $rs
+in APPPATH\Views\rs\pendonor.php on line 59.
+ 1 APPPATH\Views\rs\pendonor.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rs', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\pendonor.php', 59)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\pendonor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/pendonor', [], true)
+ 5 APPPATH\Controllers\Pendonor.php(41): view('rs/pendonor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:37:44 --> CodeIgniter\Validation\Exceptions\ValidationException: "pendonor" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 184.
+ 1 SYSTEMPATH\Controller.php(184): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('pendonor')
+ 2 SYSTEMPATH\Controller.php(150): CodeIgniter\Controller->setValidator('pendonor', [])
+ 3 APPPATH\Controllers\Pendonor.php(47): CodeIgniter\Controller->validate('pendonor')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:41:23 --> BadMethodCallException: Call to undefined method App\Models\RsModel::getDataById
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pendonor.php(39): CodeIgniter\Model->__call('getDataById', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 19:41:38 --> BadMethodCallException: Call to undefined method App\Models\RsModel::getDataById
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Pendonor.php(39): CodeIgniter\Model->__call('getDataById', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-06 19:42:12 --> mysqli_sql_exception: Not unique table/alias: 'rumahsakit' in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\BantuDonor\app\Models\RsModel.php(30): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\BantuDonor\app\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+#8 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2024-04-06 19:42:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'rumahsakit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\RsModel.php(30): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-06 19:42:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'rumahsakit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\RsModel.php(30): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-06 19:42:12 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'rumahsakit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `rumahsakit`.`nama_rs`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `rumahsakit` ON `rumahsakit`.`id` = `pendonor`.`rs_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\RsModel.php(30): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-06 19:42:38 --> mysqli_sql_exception: Unknown table 'donordarah.pendonor' in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\BantuDonor\app\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\BantuDonor\app\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+#8 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2024-04-06 19:42:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'donordarah.pendonor'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-06 19:42:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown table 'donordarah.pendonor'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-06 19:42:38 --> [Caused by] mysqli_sql_exception: Unknown table 'donordarah.pendonor'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-06 19:42:53 --> mysqli_sql_exception: Unknown column 'pendonor.goldar_id' in 'on clause' in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `rumahsa...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rumahsa...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rumahsa...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `rumahsa...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\BantuDonor\app\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\BantuDonor\app\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+#8 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2024-04-06 19:42:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pendonor.goldar_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-06 19:42:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pendonor.goldar_id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-06 19:42:53 --> [Caused by] mysqli_sql_exception: Unknown column 'pendonor.goldar_id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = \'2\'
+GROUP BY `goldar_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `rumahsakit`.*
+FROM `rumahsakit`
+JOIN `goldar` ON `goldar`.`id` = `pendonor`.`goldar_id`
+JOIN `user` ON `user`.`rs_id` = `pendonor`.`rs_id`
+WHERE `user`.`id` = :user.id:
+GROUP BY `goldar_id`', [...], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\RsModel.php(29): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\Pendonor.php(39): App\Models\RsModel->getDataById('2')
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pendonor->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 19:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:46:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 19:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:01:31 --> ArgumentCountError: Too few arguments to function App\Models\PendonorModel::hitungStock(), 0 passed in D:\xampp\htdocs\BantuDonor\app\Controllers\DataStok.php on line 35 and exactly 1 expected
+in APPPATH\Models\PendonorModel.php on line 42.
+ 1 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:01:39 --> ArgumentCountError: Too few arguments to function App\Models\PendonorModel::hitungStock(), 0 passed in D:\xampp\htdocs\BantuDonor\app\Controllers\DataStok.php on line 35 and exactly 1 expected
+in APPPATH\Models\PendonorModel.php on line 42.
+ 1 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:13:26 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_admin\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_admin\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_admin/sidebar', null, true)
+ 5 APPPATH\Views\layouts_admin\template_admin.php(33): CodeIgniter\View\View->include('layouts_admin/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_admin/template_admin', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pendonor', [], true)
+10 APPPATH\Controllers\DataPendonor.php(38): view('admin/pendonor', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:15:20 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_admin\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_admin\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_admin/sidebar', null, true)
+ 5 APPPATH\Views\layouts_admin\template_admin.php(33): CodeIgniter\View\View->include('layouts_admin/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_admin/template_admin', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pendonor', [], true)
+10 APPPATH\Controllers\DataPendonor.php(38): view('admin/pendonor', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:15:27 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_admin\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_admin\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_admin/sidebar', null, true)
+ 5 APPPATH\Views\layouts_admin\template_admin.php(33): CodeIgniter\View\View->include('layouts_admin/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_admin/template_admin', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pendonor', [], true)
+10 APPPATH\Controllers\DataPendonor.php(38): view('admin/pendonor', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:17:35 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_admin\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_admin\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_admin/sidebar', null, true)
+ 5 APPPATH\Views\layouts_admin\template_admin.php(33): CodeIgniter\View\View->include('layouts_admin/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_admin/template_admin', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/stokdarah', [], true)
+10 APPPATH\Controllers\DataStok.php(39): view('admin/stokdarah', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:19:22 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_admin\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_admin\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_admin/sidebar', null, true)
+ 5 APPPATH\Views\layouts_admin\template_admin.php(33): CodeIgniter\View\View->include('layouts_admin/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_admin/template_admin', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/rs', [], true)
+10 APPPATH\Controllers\DataRs.php(30): view('admin/rs', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataRs->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataRs))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:22:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-06 20:24:05 --> ErrorException: Undefined variable $nama
+in APPPATH\Views\layouts_admin\sidebar.php on line 6.
+ 1 APPPATH\Views\layouts_admin\sidebar.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\sidebar.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(469): CodeIgniter\View\View->render('layouts_admin/sidebar', null, true)
+ 5 APPPATH\Views\layouts_admin\template_admin.php(33): CodeIgniter\View\View->include('layouts_admin/sidebar')
+ 6 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\layouts_admin\\template_admin.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('layouts_admin/template_admin', [], true)
+ 9 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/dashboard', [], true)
+10 APPPATH\Controllers\Dashboard.php(52): view('admin/dashboard', [...])
+11 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Dashboard->index()
+12 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+13 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-06 20:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-06 20:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

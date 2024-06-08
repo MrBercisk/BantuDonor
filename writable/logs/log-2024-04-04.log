@@ -1,0 +1,961 @@
+INFO - 2024-04-04 05:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 05:43:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "v_admin/editrs.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_admin/editrs.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin/editrs', [], true)
+ 3 APPPATH\Controllers\DataRs.php(73): view('v_admin/editrs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataRs->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataRs))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 05:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 05:53:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "v_admin/editrs.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_admin/editrs.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin/editrs', [], true)
+ 3 APPPATH\Controllers\DataRs.php(73): view('v_admin/editrs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataRs->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataRs))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 05:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 05:53:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "v_admin/editrs.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_admin/editrs.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin/editrs', [], true)
+ 3 APPPATH\Controllers\DataRs.php(73): view('v_admin/editrs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataRs->show('1')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataRs))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 05:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 05:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 06:01:41 --> ErrorException: Undefined variable $updateRs
+in APPPATH\Views\admin\editrs.php on line 22.
+ 1 APPPATH\Views\admin\editrs.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $updateRs', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\editrs.php', 22)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\editrs.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/editrs', [], true)
+ 5 APPPATH\Controllers\DataRs.php(73): view('admin/editrs', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataRs->show('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataRs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 06:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 06:35:04 --> Error: Cannot use object of type App\Models\UserModel as array
+in APPPATH\Views\admin\profil.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profil', [], true)
+ 4 APPPATH\Controllers\ProfilAdmin.php(32): view('admin/profil', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ProfilAdmin->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilAdmin))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 06:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 06:37:29 --> Error: Cannot use object of type App\Models\UserModel as array
+in APPPATH\Views\admin\profil.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profil', [], true)
+ 4 APPPATH\Controllers\ProfilAdmin.php(33): view('admin/profil', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ProfilAdmin->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilAdmin))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 06:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 06:37:37 --> Error: Cannot use object of type App\Models\UserModel as array
+in APPPATH\Views\admin\profil.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profil', [], true)
+ 4 APPPATH\Controllers\ProfilAdmin.php(33): view('admin/profil', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ProfilAdmin->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilAdmin))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 06:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 06:38:18 --> ErrorException: Undefined variable $role
+in APPPATH\Views\admin\profil.php on line 30.
+ 1 APPPATH\Views\admin\profil.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $role', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\profil.php', 30)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\profil.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profil', [], true)
+ 5 APPPATH\Controllers\ProfilAdmin.php(33): view('admin/profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ProfilAdmin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilAdmin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 06:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 06:38:27 --> Error: Cannot use object of type App\Models\UserModel as array
+in APPPATH\Views\admin\profil.php on line 30.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profil', [], true)
+ 4 APPPATH\Controllers\ProfilAdmin.php(33): view('admin/profil', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ProfilAdmin->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilAdmin))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 06:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 06:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 07:01:58 --> ErrorException: Undefined variable $pendonor
+in APPPATH\Views\admin\pendonor.php on line 96.
+ 1 APPPATH\Views\admin\pendonor.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pendonor', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\pendonor.php', 96)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\pendonor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pendonor', [], true)
+ 5 APPPATH\Controllers\DataPendonor.php(29): view('admin/pendonor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 07:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 07:02:38 --> ErrorException: Undefined variable $rs
+in APPPATH\Views\admin\pendonor.php on line 96.
+ 1 APPPATH\Views\admin\pendonor.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rs', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\pendonor.php', 96)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\pendonor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pendonor', [], true)
+ 5 APPPATH\Controllers\DataPendonor.php(29): view('admin/pendonor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 07:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 07:04:49 --> ErrorException: Undefined array key "aksi"
+in APPPATH\Views\admin\pendonor.php on line 104.
+ 1 APPPATH\Views\admin\pendonor.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "aksi"', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\pendonor.php', 104)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\pendonor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/pendonor', [], true)
+ 5 APPPATH\Controllers\DataPendonor.php(29): view('admin/pendonor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 07:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 07:40:13 --> CodeIgniter\Validation\Exceptions\ValidationException: "datapendonor" is not a validation rules group.
+in SYSTEMPATH\Validation\Validation.php on line 740.
+ 1 SYSTEMPATH\Validation\Validation.php(740): CodeIgniter\Validation\Exceptions\ValidationException::forGroupNotFound('datapendonor')
+ 2 SYSTEMPATH\Validation\Validation.php(147): CodeIgniter\Validation\Validation->loadRuleGroup('datapendonor')
+ 3 APPPATH\Controllers\DataPendonor.php(42): CodeIgniter\Validation\Validation->run([...], 'datapendonor')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->create()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 07:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 07:50:57 --> ErrorException: Undefined variable $goldar
+in APPPATH\Views\admin\editdonor.php on line 43.
+ 1 APPPATH\Views\admin\editdonor.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $goldar', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\editdonor.php', 43)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\editdonor.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/editdonor', [], true)
+ 5 APPPATH\Controllers\DataPendonor.php(58): view('admin/editdonor', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->show('1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 07:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:53:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 07:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-04 08:01:14 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\BantuDonor\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(711): CodeIgniter\Model->update('3', Array)
+#8 D:\xampp\htdocs\BantuDonor\app\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+#11 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-04-04 08:01:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('3', [...])
+ 6 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:01:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:13\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:13\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('3', [...])
+ 8 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:01:14 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:13\'
+WHERE `pendonor`.`id` IN (\'3\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:13\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:13\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('3', [...])
+ 9 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-04 08:01:47 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\BantuDonor\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(711): CodeIgniter\Model->update('3', Array)
+#8 D:\xampp\htdocs\BantuDonor\app\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+#11 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-04-04 08:01:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('3', [...])
+ 6 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:01:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:47\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:47\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('3', [...])
+ 8 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:01:47 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:47\'
+WHERE `pendonor`.`id` IN (\'3\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:47\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'3\', `tanggal` = \'2024-04-03\', `nama` = \'tes\', `no_id` = \'3434225\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Belum Donor\', `updated_at` = \'2024-04-04 08:01:47\'
+WHERE `pendonor`.`id` IN (\'3\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('3', [...])
+ 9 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('3')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-04 08:02:20 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_2` FOREIGN KEY (`rs_id`) REFERENCES `rumahsakit` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\BantuDonor\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(711): CodeIgniter\Model->update('1', Array)
+#8 D:\xampp\htdocs\BantuDonor\app\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+#11 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-04-04 08:02:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_2` FOREIGN KEY (`rs_id`) REFERENCES `rumahsakit` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('1', [...])
+ 6 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:02:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_2` FOREIGN KEY (`rs_id`) REFERENCES `rumahsakit` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = \'2\', `rs_id` = NULL, `keterangan` = NULL, `updated_at` = \'2024-04-04 08:02:20\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = \'2\', `rs_id` = NULL, `keterangan` = NULL, `updated_at` = \'2024-04-04 08:02:20\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('1', [...])
+ 8 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:02:20 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_2` FOREIGN KEY (`rs_id`) REFERENCES `rumahsakit` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = \'2\', `rs_id` = NULL, `keterangan` = NULL, `updated_at` = \'2024-04-04 08:02:20\'
+WHERE `pendonor`.`id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = \'2\', `rs_id` = NULL, `keterangan` = NULL, `updated_at` = \'2024-04-04 08:02:20\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = \'2\', `rs_id` = NULL, `keterangan` = NULL, `updated_at` = \'2024-04-04 08:02:20\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('1', [...])
+ 9 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-04 08:03:43 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(987): CodeIgniter\Model->doUpdate(Array, Array)
+#6 D:\xampp\htdocs\BantuDonor\system\Model.php(807): CodeIgniter\BaseModel->update(Array, Array)
+#7 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(711): CodeIgniter\Model->update('1', Array)
+#8 D:\xampp\htdocs\BantuDonor\app\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save(Array)
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+#11 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-04-04 08:03:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('1', [...])
+ 6 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:03:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Sudah Donor\', `updated_at` = \'2024-04-04 08:03:43\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Sudah Donor\', `updated_at` = \'2024-04-04 08:03:43\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('1', [...])
+ 8 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:03:43 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`donordarah`.`pendonor`, CONSTRAINT `pendonor_ibfk_1` FOREIGN KEY (`goldar_id`) REFERENCES `goldar` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Sudah Donor\', `updated_at` = \'2024-04-04 08:03:43\'
+WHERE `pendonor`.`id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Sudah Donor\', `updated_at` = \'2024-04-04 08:03:43\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `pendonor` SET `id` = \'1\', `tanggal` = \'2024-04-04\', `nama` = \'tes1\', `no_id` = \'2147483647\', `no_telp` = \'2147483647\', `goldar_id` = NULL, `rs_id` = NULL, `keterangan` = \'Sudah Donor\', `updated_at` = \'2024-04-04 08:03:43\'
+WHERE `pendonor`.`id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2474): CodeIgniter\Database\BaseConnection->query('UPDATE `pendonor` SET `id` = :id:, `tanggal` = :tanggal:, `nama` = :nama:, `no_id` = :no_id:, `no_telp` = :no_telp:, `goldar_id` = :goldar_id:, `rs_id` = :rs_id:, `keterangan` = :keterangan:, `updated_at` = :updated_at:
+WHERE `pendonor`.`id` IN :pendonor.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(393): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(711): CodeIgniter\Model->update('1', [...])
+ 9 APPPATH\Controllers\DataPendonor.php(104): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataPendonor->update('1')
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataPendonor))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 08:23:31 --> ErrorException: Undefined array key "stock"
+in APPPATH\Views\admin\stokdarah.php on line 84.
+ 1 APPPATH\Views\admin\stokdarah.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "stock"', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\stokdarah.php', 84)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\stokdarah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/stokdarah', [], true)
+ 5 APPPATH\Controllers\DataStok.php(39): view('admin/stokdarah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-04 08:24:18 --> mysqli_sql_exception: Unknown column 'pendonor' in 'field list' in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\BantuDonor\app\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\BantuDonor\app\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+#8 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\DataStok->index()
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2024-04-04 08:24:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pendonor' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:24:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'pendonor' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:24:18 --> [Caused by] mysqli_sql_exception: Unknown column 'pendonor' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 08:25:18 --> ErrorException: Undefined array key "nama_goldar"
+in APPPATH\Views\admin\stokdarah.php on line 83.
+ 1 APPPATH\Views\admin\stokdarah.php(83): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_goldar"', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\stokdarah.php', 83)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\stokdarah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/stokdarah', [], true)
+ 5 APPPATH\Controllers\DataStok.php(39): view('admin/stokdarah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 08:25:29 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\admin\stokdarah.php on line 85.
+ 1 APPPATH\Views\admin\stokdarah.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\stokdarah.php', 85)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\stokdarah.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/stokdarah', [], true)
+ 5 APPPATH\Controllers\DataStok.php(39): view('admin/stokdarah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-04-04 08:30:56 --> mysqli_sql_exception: Unknown column 'goldar.nama_goldar' in 'field list' in D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\xampp\htdocs\BantuDonor\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendono...', 0)
+#1 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendono...')
+#2 D:\xampp\htdocs\BantuDonor\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendono...')
+#3 D:\xampp\htdocs\BantuDonor\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendono...', Array, false)
+#4 D:\xampp\htdocs\BantuDonor\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\BantuDonor\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\xampp\htdocs\BantuDonor\app\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+#7 D:\xampp\htdocs\BantuDonor\app\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+#8 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(941): App\Controllers\DataStok->index()
+#9 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+#10 D:\xampp\htdocs\BantuDonor\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\BantuDonor\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\BantuDonor\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2024-04-04 08:30:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'goldar.nama_goldar' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:30:56 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'goldar.nama_goldar' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+ 7 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+CRITICAL - 2024-04-04 08:30:56 --> [Caused by] mysqli_sql_exception: Unknown column 'goldar.nama_goldar' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `pendonor`.*, `goldar`.`nama_goldar`, `goldar_id`, COUNT(*) as stock
+FROM `pendonor`
+GROUP BY `goldar_id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Models\PendonorModel.php(34): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH\Controllers\DataStok.php(35): App\Models\PendonorModel->hitungStock()
+ 9 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DataStok->index()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataStok))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 08:43:51 --> ErrorException: Undefined array key "role"
+in APPPATH\Views\admin\profil.php on line 29.
+ 1 APPPATH\Views\admin\profil.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "role"', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\profil.php', 29)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\admin\\profil.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('admin/profil', [], true)
+ 5 APPPATH\Controllers\ProfilAdmin.php(31): view('admin/profil', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\ProfilAdmin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProfilAdmin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 08:51:05 --> ErrorException: Array to string conversion
+in APPPATH\Views\rs\dashboard.php on line 21.
+ 1 APPPATH\Views\rs\dashboard.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\dashboard.php', 21)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardRs.php(38): view('rs/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DashboardRs->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardRs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-04-04 08:54:33 --> ErrorException: Undefined variable $totalPendonor
+in APPPATH\Views\rs\dashboard.php on line 21.
+ 1 APPPATH\Views\rs\dashboard.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalPendonor', 'D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\dashboard.php', 21)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\xampp\\htdocs\\BantuDonor\\app\\Views\\rs\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('rs/dashboard', [], true)
+ 5 APPPATH\Controllers\DashboardRs.php(42): view('rs/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DashboardRs->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DashboardRs))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\BantuDonor\\public\\index.php')
+INFO - 2024-04-04 08:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 08:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:08:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-04-04 09:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
